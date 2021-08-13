@@ -3,11 +3,17 @@
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "run": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["formatter"],
+  "keywords": [
+    "formatter"
+  ],
   "author": "Alexander Bibikov <abibikov.com@gmail.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^16.6.1"
+  }
 }
