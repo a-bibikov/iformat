@@ -1,0 +1,13 @@
+{
+  "name": "formatter",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["formatter"],
+  "author": "Alexander Bibikov <abibikov.com@gmail.com>",
+  "license": "ISC"
+}
