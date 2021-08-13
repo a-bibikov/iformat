@@ -1,6 +1,6 @@
 {
   "name": "iformat",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "main": "index.js",
   "type": "module",
@@ -16,7 +16,7 @@
   "license": "ISC",
   "repository": "git://github.com/a-bibikov/iformat.git",
   "publishConfig": {
-    "registry":"https://npm.pkg.github.com"
+    "registry":"https://registry.npmjs.org/"
   },
   "dependencies": {
     "@types/node": "^16.6.1",
