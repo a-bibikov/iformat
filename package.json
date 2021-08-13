@@ -16,10 +16,12 @@
   "license": "ISC",
   "repository": "git://github.com/a-bibikov/iformat.git",
   "publishConfig": {
-    "registry":"https://registry.npmjs.org/"
+    "registry": "https://registry.npmjs.org/"
   },
   "dependencies": {
-    "@types/node": "^16.6.1",
-    "iformat": "^0.0.1"
+    "@types/node": "^16.6.1"
+  },
+  "devDependencies": {
+    "iformat": "^0.0.2"
   }
 }
