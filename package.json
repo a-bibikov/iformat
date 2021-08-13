@@ -14,7 +14,12 @@
   ],
   "author": "Alexander Bibikov <abibikov.com@gmail.com>",
   "license": "ISC",
+  "repository": "git://github.com/a-bibikov/iformat.git",
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com"
+  },
   "dependencies": {
-    "@types/node": "^16.6.1"
+    "@types/node": "^16.6.1",
+    "iformat": "^0.0.1"
   }
 }
